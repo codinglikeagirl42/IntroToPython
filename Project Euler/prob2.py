@@ -23,7 +23,7 @@ def sumFibeven(fib1, fib2, sumfibeven):
     return fib1, fib2, sumfibeven
 
 
-while fib1 <= 4000000 and fib2<= 4000000:
-    sumFibeven(fib1, fib2, sumfibeven)
+if fib1 <= 4000000 and fib2<= 4000000:
+    print sumFibeven(fib1, fib2, sumfibeven)
 else:
     print sumfibeven
