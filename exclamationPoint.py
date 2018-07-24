@@ -195,7 +195,7 @@ def goDoor():
 
 
 def main():
-    print("Escape Your Room: The Game: Exclamation Point!")
+    print("Escape Your Room: The Game: Exclamation Point!!")
     print("You were doing absolutely nothing. Now you are in a room with a locked door.")
     time.sleep(2)
     print("This is in build 0.0.0.0.a.dot.1, so most of the features don't work because we ran out of time.")
